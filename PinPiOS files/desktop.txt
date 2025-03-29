@@ -1,0 +1,47 @@
+                                               _             _                                      
+                                         _ __ (_)_ __  _ __ (_)                                     
+                                        | '_ \| | '_ \| '_ \| |                                     
+                                        | |_) | | | | | |_) | |                                     
+                                        | .__/|_|_| |_| .__/|_|                                     
+                                        |_|           |_|                      X                    
+                                                                                                    
+       X          X X                                                          X XXXXXXXXXXXXX X X X
+       XXXXXXXXXXXXXXX                                                      XXXXX             XXXXX 
+  XXXXX               XXXXX                                              XXX                       X
+XX                         XXX                                         XX                           
+                              XXX                                    XX                             
+                                 XX                                 X            XXXXXXXXXXX        
+                                   XX                              X          XXX X     X   XXX     
+                                     X                            X         XXXXXXXXXXXXXXXXXXXXX   
+                                      X    X                     X         X X    X     X      X X  
+  XXXXXXXXXXX                          X                        X         X  X    X     X      X  X 
+  XXXXXXXXXXXXXXXXXXXXXXX               X         XXXXXXX       X        XXXXXXXXXXXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXXXXXXX               X      XXX       XXX    X        X   X    X     X      X   X
+  XXXXXXXXXXXXXXXXXXXXXXX                X    X             X   X        XXXXXXXXXXXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXXXXXXX                X   X  XXX XXXX     X  X         X  X    X     X      X  X 
+  XXX XXXXXXXXXXXXXXXXXXX                X  X    XXXXXXXXXXXXXX  X         XXXXXXXXXXXXXXXXXXXXXXX  
+  XXXXXXXXXXXXXXXXXXXXXXX                X  X    XXXXXX XXX XXX   X         XX    X     X      XX   
+  XXXXXXXXXXXXXXXXXXXXXXX                X  X     X     X     X    X          XXX X     X   XXX     
+  XXXXXXXXXXXXXXXXXXXXXXX               X    X    X     X    X      X            XXXXXXXXXXX        
+                                        X     X             X        XX                             
+                                       X       XXX       XXX           XX                           
+                                      X           XXXXXXX                XXX                       X
+                                     X                                      XXXXX             XXXXX 
+                                   XX                                            XXXXXXXXXXXXX      
+                                 XX                                                                 
+                              XXX               ________                                            
+XX                         XXX                 |\       \                                           
+  XXXXX               XXXXX                    | \ ______\                                          
+       XXXXXXXXXXXXXXX                         |  |       |                             X           
+                                               |  |BETABOX|                             X           
+                                                \ |       |                             X           
+                              X                  \|_______|                          XXXXXXX        
+                             XXX                                                        X           
+                              X                                                         X           
+                                                                                        X           
+                                                                                                    
+                                                                                                    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+           X                                                                                        
+  Menu (M)  X                                                                                       
+           X                                                                                        
